@@ -1,0 +1,4 @@
+# Requirements for Advanced Cryptography Exercises
+# Install with: pip install -r requirements.txt
+
+cryptography>=41.0.0
