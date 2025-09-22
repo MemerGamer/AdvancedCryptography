@@ -60,3 +60,4 @@ cd c
 gcc -o exercise6 exercise6.c
 ./exercise6
 ```
+
