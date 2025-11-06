@@ -1,0 +1,9 @@
+{
+    "to": "DEVICE_TOKEN_3",
+    "notification": {
+        "title": "FIGYELEM!",
+        "body": "Medve a kozelben! Maradj biztonsagban!",
+        "mac": "74cb002476bac1c4c1aa0a8979e0943b"
+    },
+    "priority": "high"
+}
